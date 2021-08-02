@@ -23,15 +23,15 @@ Following packages should be installed on python 3:
 
 We will be using a dataset from Kaggle, which we will preprocess for you. The original data consists of four columns, the sentence number, the word, the part of speech of the word, and the tags. A few tags you might expect to see are:
 
-geo: geographical entity
-org: organization
-per: person
-gpe: geopolitical entity
-tim: time indicator
-art: artifact
-eve: event
-nat: natural phenomenon
-O: filler word
+- geo: geographical entity
+- org: organization
+- per: person
+- gpe: geopolitical entity
+- tim: time indicator
+- art: artifact
+- eve: event
+- nat: natural phenomenon
+- O: filler word
 
 
 
