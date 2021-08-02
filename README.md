@@ -1,8 +1,9 @@
 # Named-Entity-Recognition-NER-
 Named Entity Recognition is a subtask of information extraction that locates and classifies named entities in a text. The project uses Trax deep learning library for implementation.
 
+An NER example is as follows: 
 
-![Alt Text](https://github.com/saeedkhaki92/Sentiment-Analysis-of-Tweets/blob/main/nn.jpg)
+![Alt Text](https://github.com/saeedkhaki92/Named-Entity-Recognition-NER-/blob/main/ner.png)
 
 ## Getting Started
 
@@ -20,4 +21,18 @@ Following packages should be installed on python 3:
 
 ## Dataset
 
-The model is trained and validated on 10K tweets. I used 8K tweets for training and 2K tweets for validation.
+We will be using a dataset from Kaggle, which we will preprocess for you. The original data consists of four columns, the sentence number, the word, the part of speech of the word, and the tags. A few tags you might expect to see are:
+
+geo: geographical entity
+org: organization
+per: person
+gpe: geopolitical entity
+tim: time indicator
+art: artifact
+eve: event
+nat: natural phenomenon
+O: filler word
+
+
+
+
