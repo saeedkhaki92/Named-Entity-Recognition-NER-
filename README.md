@@ -38,5 +38,5 @@ We will be using a dataset from Kaggle, which we will preprocess for you. The or
 The model architecture will be as follows:
 
 
-![Alt Text](https://github.com/saeedkhaki92/Named-Entity-Recognition-NER-/blob/main/ner.png)
+![Alt Text](https://github.com/saeedkhaki92/Named-Entity-Recognition-NER-/blob/main/ner2.png)
 
