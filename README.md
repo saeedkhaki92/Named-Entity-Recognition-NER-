@@ -33,6 +33,10 @@ We will be using a dataset from Kaggle, which we will preprocess for you. The or
 - nat: natural phenomenon
 - O: filler word
 
+## Model
+
+The model architecture will be as follows:
 
 
+![Alt Text](https://github.com/saeedkhaki92/Named-Entity-Recognition-NER-/blob/main/ner.png)
 
