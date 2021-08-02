@@ -40,3 +40,14 @@ The model architecture will be as follows:
 
 ![Alt Text](https://github.com/saeedkhaki92/Named-Entity-Recognition-NER-/blob/main/ner2.png)
 
+
+
+- We use the input tensors you built in your data generator
+- Feed it into an Embedding layer, to produce more semantic entries
+- Feed it into an LSTM layer
+- Run the output through a linear layer
+- Run the result through a log softmax layer to get the predicted class for each word.
+
+
+
+
