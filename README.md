@@ -51,3 +51,11 @@ The model architecture will be as follows:
 
 
 
+## Instructions
+
+You can train the model from scrath using the Google Colab notebooks. Please use `NER_trax.ipynb` for Trax version.
+
+## Results
+
+I trained the model for several epochs and the validation accuracy is around 95%.
+
